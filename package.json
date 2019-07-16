@@ -1,5 +1,6 @@
 {
   "name": "voting-app-1",
+  "homepage" : "https://rj-maitra.github.io/react-hot-sauces",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
