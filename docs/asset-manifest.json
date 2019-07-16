@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ac1ebbc.chunk.css",
-    "main.js": "/static/js/main.31aa8b0a.chunk.js",
-    "main.js.map": "/static/js/main.31aa8b0a.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.97294558.chunk.js": "/static/js/2.97294558.chunk.js",
-    "static/js/2.97294558.chunk.js.map": "/static/js/2.97294558.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3463616fde2d0e5dca1ec72cfa018c2b.js": "/precache-manifest.3463616fde2d0e5dca1ec72cfa018c2b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3ac1ebbc.chunk.css.map": "/static/css/main.3ac1ebbc.chunk.css.map"
+    "main.css": "/react-hot-sauces/static/css/main.3ac1ebbc.chunk.css",
+    "main.js": "/react-hot-sauces/static/js/main.254a1f42.chunk.js",
+    "main.js.map": "/react-hot-sauces/static/js/main.254a1f42.chunk.js.map",
+    "runtime~main.js": "/react-hot-sauces/static/js/runtime~main.efdd3625.js",
+    "runtime~main.js.map": "/react-hot-sauces/static/js/runtime~main.efdd3625.js.map",
+    "static/js/2.97294558.chunk.js": "/react-hot-sauces/static/js/2.97294558.chunk.js",
+    "static/js/2.97294558.chunk.js.map": "/react-hot-sauces/static/js/2.97294558.chunk.js.map",
+    "index.html": "/react-hot-sauces/index.html",
+    "precache-manifest.98157fe3c7df07b4f70e9fd66010ac6e.js": "/react-hot-sauces/precache-manifest.98157fe3c7df07b4f70e9fd66010ac6e.js",
+    "service-worker.js": "/react-hot-sauces/service-worker.js",
+    "static/css/main.3ac1ebbc.chunk.css.map": "/react-hot-sauces/static/css/main.3ac1ebbc.chunk.css.map"
   }
 }
