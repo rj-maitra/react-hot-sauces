@@ -1,0 +1,13 @@
+.home {
+    margin-top: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card {
+    margin: .5rem;
+}
+
+h4 {
+    display: inline;
+    margin: 1rem;
+}
